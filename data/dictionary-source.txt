@@ -1,0 +1,36 @@
+POOPLE GAME FUN — PRACTICE DICTIONARY SOURCE
+Reviewed: 2026-10-24
+
+Source: SCOWL (Spell Checker Oriented Word Lists), release 2020.12.07
+Project: https://wordlist.aspell.net/
+Release archive: https://downloads.sourceforge.net/wordlist/scowl-2020.12.07.tar.gz
+Source revision: 5ef55f9c42730ebe4394a78b77855468a6f15dd2
+Release source: https://github.com/en-wl/wordlist/tree/5ef55f9c42730ebe4394a78b77855468a6f15dd2
+Archive SHA-256: 5587667caa20c4891390c2d42dbb4d5c4c3f41bee77af1457ece3ba23fb859cc
+License and complete included notices: /assets/SCOWL-Copyright.txt
+
+This project distributes a modified selection of SCOWL. The source permits
+use, copying, modification, distribution, and sale under its retained notices.
+See the complete Copyright file for all underlying source notices and terms.
+The original source files and their checksums are retained with the project.
+No competitor word list or game asset was used as a vocabulary source.
+
+Selection: English and American lower-case word lists through SCOWL level 60;
+exactly four ASCII letters; project content exclusions; retain the connected
+component that can reach POOP by changing exactly one letter per move. Proper
+name lists, abbreviation lists, contractions, and special-category lists are
+not included. Some rare and inflected words remain accepted. A word omitted
+from this practice dictionary may still be valid English.
+
+Familiar-word routes use an independently reviewed project selection, checked
+against the licensed dictionary. The selection is not a measured frequency
+ranking and does not guarantee that every reader knows every selected word.
+A route using this smaller selection may need more moves.
+
+Practice answers are generated with breadth-first search, using the same
+versioned dictionary as the game and solver. A shortest path is shortest within
+that dictionary. The source is a pinned 2020 release, not the newest release.
+Compatibility with any official Poople game has not been verified. Practice
+puzzles are reusable examples, not an official daily puzzle feed.
+
+Vocabulary data and practice selections do not create additional content pages.
