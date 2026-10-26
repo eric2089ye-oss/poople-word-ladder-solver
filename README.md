@@ -4,6 +4,8 @@ A small, deterministic four-letter word-ladder solver. Given a starting word (an
 
 This is an independent, open-source utility. It is not the official Poople game, is not affiliated with poople.io, and does not publish or reproduce any official accepted-word list. Shortest paths are relative to the bundled dictionary version.
 
+Live practice site: https://pooplegame.fun/ - a free daily Poople-style word ladder with a verified daily route, progressive hints, and this solver.
+
 Live version of the tool: https://pooplegame.fun/word-ladder-solver/
 
 ## What it does
