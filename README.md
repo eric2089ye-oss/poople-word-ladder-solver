@@ -72,3 +72,7 @@ Run the tests with:
 ## Why it exists
 
 The live site publishes verified daily routes and offers spoiler-controlled hints. This repository keeps the solver logic and the dictionary provenance reviewable outside the website build.
+
+## Contact
+
+Project email: support@pooplegame.fun (for corrections and partnership questions). No personal contact details are published.
