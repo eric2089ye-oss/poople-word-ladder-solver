@@ -6,6 +6,9 @@ This is an independent, open-source utility. It is not the official Poople game,
 
 Live practice site: https://pooplegame.fun/ - a free daily Poople-style word ladder with a verified daily route, progressive hints, and this solver.
 
+- Today's verified Poople answer (dated, source-checked): https://pooplegame.fun/answer/
+- Poople Unlimited practice: https://pooplegame.fun/unlimited/
+
 Live version of the tool: https://pooplegame.fun/word-ladder-solver/
 
 ## What it does
